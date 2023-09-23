@@ -1,0 +1,4 @@
+﻿  Arrays.cpp
+D:\C++ Project\Arrays\Arrays\Arrays.cpp(10,9): warning C4101: 'B': unreferenced local variable
+D:\C++ Project\Arrays\Arrays\Arrays.cpp(13,9): warning C4101: 'E': unreferenced local variable
+  Arrays.vcxproj -> D:\C++ Project\Arrays\x64\Debug\Arrays.exe
